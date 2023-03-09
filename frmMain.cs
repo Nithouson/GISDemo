@@ -576,8 +576,8 @@ namespace GISDemo
 
         private void mSAuthor_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(" 作者：郭浩\n 单位：北京大学地球与空间科学学院\n 学号：2001210088\n " +
-                "联系方式：13811678263\n","作者信息", MessageBoxButtons.OK) ;
+            MessageBox.Show(" 作者：郭浩\n 单位：北京大学遥感与地理信息系统研究所\n " +
+                "联系方式：sinesloop@pku.edu.cn\n","作者信息", MessageBoxButtons.OK) ;
         }
     }
 }
